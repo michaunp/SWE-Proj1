@@ -1,0 +1,1 @@
+Hello! This is a test file! This line is a nice example where the words are neatly spaced. The     next  line will have       erratic spacing     . It may also have     !! ? > $$     ##    @    punctuation interspersed     throughout             the !! 1 FILE.   NEXT   WE WILL TRY AN ALL CAPS SENTENCE TO SEE HOW IT WORKS OUT. My day was supercalifragilisticexpialidotious!
