@@ -8,7 +8,9 @@
 * We are assuming that we can just output the adjusted text to the terminal, and not a file
 
 Must specify input text file with -i flag
+
 Must specify width of left margin with -l flag
+
 Must specify width of right margin with the -r flag
 
 
