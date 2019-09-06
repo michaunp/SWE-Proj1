@@ -14,11 +14,17 @@ Must specify width of right margin with the -r flag
 
 ## Algorithm
 1.) Open the input file and tokenize all of the words in the file
+
 2.) Iterate through each word and do the following
+
 3.) Check the length of the word
+
 4.) Check the last character of the word
+
 5.) Subtract the length of the word from the available space on the line
+
 6.) If the difference is greater than or equal to zero print the word on the line, otherwise move to the next line and print the word
+
 7.) If the length of the word was greater than or equal to two and last character of the word was a period, exclamation point or question mark print two spaces while respecting margins. Otherwise, print one space while respecting margins.
 
 ## Test Cases
