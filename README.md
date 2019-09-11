@@ -1,17 +1,20 @@
-# SWE-Proj1
+# SWE-Margin Assignment
 
 ## Requirements/Assumptions
 
 * We are assuming English letters only, and a default 12 pt font size for the text input.
 * We are assuming that a sentence is at least two characters with one of them being a question mark, exclamation point, or period.
-* We are assuming that no negative integers are given as input.
-* We are assuming that we can just output the adjusted text to the terminal, and not a file
+* We are assuming that we are given integers as input.
 
 Must specify input text file with -i flag
+
+Must specify input text file with -o flag
 
 Must specify width of left margin with -l flag
 
 Must specify width of right margin with the -r flag
+
+Example command: `./margin.py -i input_1.txt -o output_1.txt -l 2 -r 3`
 
 
 ## Algorithm
